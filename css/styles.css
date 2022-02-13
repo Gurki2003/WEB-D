@@ -1,0 +1,22 @@
+body {
+  background-color: powderblue;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+hr {
+  background-color: grey;
+  border-style: dashed groove none dotted;
+  height: 10px;
+  width: 30%;
+}
